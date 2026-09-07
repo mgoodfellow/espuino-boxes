@@ -1,0 +1,20 @@
+# Local/editor files
+.DS_Store
+*.swp
+.vscode/
+.idea/
+# Build products and private device data
+.pio/
+firmware-out/
+*.bin
+*.elf
+*.map
+*.log
+.env
+.env.*
+*.local
+*.local.*
+private/
+reference/
+__pycache__/
+*.pyc
